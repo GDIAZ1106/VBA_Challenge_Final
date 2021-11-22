@@ -51,7 +51,6 @@ Refactoring performed on the "All Years Analysis" code was extremely positive in
 #### **Results obtained with previous code**
      
 The original code requires on average 0.56 seconds to perform the analysis requested as shown on the secreen captures shown below:
-
 ![Original 2017](/Resources/VBA_Original_2017.png) ![Original 2018](/Resources/VBA_Original_2018.png)
 
 ### **Results Obtained with the code refactored**
