@@ -27,11 +27,7 @@ In addition of the requested information we have added the opening price and clo
     Year 2017 ends with 11 out of 12 shares registering profits with a maximum return of 202.3% obtained by DQ in just one year. The only share running on red on this year was TERP with a -7,93%.
         
     The following chart summarize the performance of the market:
-
-![Summary 2017](/Resources/Stock_Summary_2017.png)
-
- 
-    
+![Summary 2017](/Resources/Stock_Summary_2017.PNG)
 
 #### **Stocks results 2018**
     Year 2018 ends with 10 out of 12 shares on the red with a maximum yearly return of 97.91% obtained by ENPH. The worst performance was achieved by DQ that losses 61.8% of its value on 2018 going back to a similar price per share that the one registered at the beggining of 2017.
