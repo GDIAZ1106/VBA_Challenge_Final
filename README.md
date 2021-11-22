@@ -27,7 +27,7 @@ While both year ends with a similar trading volume which is US$ 3.3B in 2017 vs 
 Year 2017 ends with 11 out of 12 shares registering profits with a maximum return of 202.3% obtained by DQ in just one year. The only share running on red on this year was TERP with a -7,93%.
 
 The following chart summarize the performance of the market:
-![Summary 2017](/Resources/Stock_Summary_2017.png)
+![Summary 2017](./Resources/Stock_Summary_2017.png)
 
  
     
