@@ -52,14 +52,12 @@ In addition of the requested information we have added the opening price and clo
 
 ### **Results Obtained with the code refactored**
     
-    With the new code the process of the information requested take on average 0,048 seconds, as shown below:
-    
+    With the new code the process of the information requested take on average 0,048 seconds, as shown below:  
 ![Refactored 2017](/Resources/VBA_Challenge_2017.png) ![Refactored 2018](/Resources/VBA_Challenge_2018.png)
         
 ### **Conclusion**
     
-    The new code proves to be more efficient reducing the time of executing the analysis in 91.32% from the previous one. This means that the new codes runs more than 10 times faster than its previous version.
-    
+    The new code proves to be more efficient reducing the time of executing the analysis in 91.32% from the previous one. This means that the new codes runs more than 10 times faster than its previous version.   
 ![Conclusion](/Resources/Summary_Chart.png)
     
 ## SUMMARY
