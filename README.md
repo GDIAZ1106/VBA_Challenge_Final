@@ -1,10 +1,10 @@
 ## **Important Disclaimer Regarding the Challenge**
-This paragraph do not intent to be part of the "Written Analysis of Results", but it is written to justify the difference between the results obtained with the process I have performed to those shown as the expected results of the Challenge. 
-From my perspective there is an error on the code offered as a result. It is not an error of the code itself but in the information being selected to calculate the annual return of the shares. As it is expressed on Module 2 the suggestion is to compare closing price of the first day of trading o a stock with the closing price of the last day of trading by using the following formula:
+This paragraph do not intent to be part of the "Written Analysis of Results" requested in the challenge. It is written to justify the difference between the results obtained by me and those shown as the expected results for the Challenge. 
+From my perspective there is an error in the information being selected to calculate the annual return of the shares. As it is expressed on Module 2 the suggestion is to compare closing price of the first day of trading of a stock with the closing price of the last day of trading by using the following formula:
 
 (endingprice - startingprice) -1
 
-The formula is correct, but the starting price to be used should be the opening price of the first day of trading and not the closing one. By applying the suggested procedure, it is my believing that, there is one day of trading not being considered. The code being presented has been done considering the opening price of the first day of trading.
+The formula is correct, but the starting price to be used should be the opening price of the first day of trading and not the closing one. By using the methodology suggested in the module there is one day of trading not being considered, which is the return of the first day of training. The code being presented has been done considering the **opening price of the first day of trading**.
 The only change needed in the code is replacing the number 6 for a 3 in the column taken for the starting price. 
  
  
