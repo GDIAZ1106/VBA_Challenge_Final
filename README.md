@@ -52,13 +52,13 @@ In addition of the requested information we have added the opening price and clo
      
     The original code requires on average 0.56 seconds to perform the analysis requested as shown on the secreen captures shown below:
 
-![Original 2017](/Resources/VBA_Original_2017.png)![Original 2018](/Resources/VBA_Original_2018.png)
+![Original 2017](/Resources/VBA_Original_2017.png) ![Original 2018](/Resources/VBA_Original_2018.png)
 
 ### **Results Obtained with the code refactored**
     
     With the new code the process of the information requested take on average 0,048 seconds, as shown below:
     
-![Refactored 2017](/Resources/VBA_Challenge_2017.png)![Refactored 2018](/Resources/VBA_Challenge_2018.png)
+![Refactored 2017](/Resources/VBA_Challenge_2017.png) ![Refactored 2018](/Resources/VBA_Challenge_2018.png)
         
 ### **Conclusion**
     
