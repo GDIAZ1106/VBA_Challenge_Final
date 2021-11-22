@@ -23,7 +23,6 @@ In addition of the requested information we have added the opening price and clo
 While both year ends with a similar trading volume which is US$ 3.3B in 2017 vs US$3.1B in 2018. One year is dramatically different from the other. 2017 was what is called a "Bull" market where most of the stocks register an increase in the value, on the contrary 2018 was a clear "Bear" market when almost all the shares register a loss. 
 
 #### **Stocks results 2017**
-<<<<<<< HEAD
 
 Year 2017 ends with 11 out of 12 shares registering profits with a maximum return of 202.3% obtained by DQ in just one year. The only share running on red on this year was TERP with a -7,93%.
 
@@ -32,13 +31,6 @@ The following chart summarize the performance of the market:
 
  
     
-=======
-    
-    Year 2017 ends with 11 out of 12 shares registering profits with a maximum return of 202.3% obtained by DQ in just one year. The only share running on red on this year was TERP with a -7,93%.
-        
-    The following chart summarize the performance of the market:
-![Summary 2017](/Resources/Stock_Summary_2017.PNG)
->>>>>>> 0913fc62dff610c34ab45028fedc09892476433b
 
 #### **Stocks results 2018**
 Year 2018 ends with 10 out of 12 shares on the red with a maximum yearly return of 97.91% obtained by ENPH. The worst performance was achieved by DQ that losses 61.8% of its value on 2018 going back to a similar price per share that the one registered at the beggining of 2017.
@@ -63,22 +55,14 @@ The original code requires on average 0.56 seconds to perform the analysis reque
 
 ### **Results Obtained with the code refactored**
     
-<<<<<<< HEAD
 With the new code the process of the information requested take on average 0,048 seconds, as shown below:
     
-=======
-    With the new code the process of the information requested take on average 0,048 seconds, as shown below:  
->>>>>>> 0913fc62dff610c34ab45028fedc09892476433b
 ![Refactored 2017](/Resources/VBA_Challenge_2017.png) ![Refactored 2018](/Resources/VBA_Challenge_2018.png)
         
 ### **Conclusion**
     
-<<<<<<< HEAD
 The new code proves to be more efficient reducing the time of executing the analysis in 91.32% from the previous one. This means that the new codes runs more than 10 times faster than its previous version.
     
-=======
-    The new code proves to be more efficient reducing the time of executing the analysis in 91.32% from the previous one. This means that the new codes runs more than 10 times faster than its previous version.   
->>>>>>> 0913fc62dff610c34ab45028fedc09892476433b
 ![Conclusion](/Resources/Summary_Chart.png)
     
 ## SUMMARY
